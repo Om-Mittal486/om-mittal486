@@ -3,7 +3,7 @@
 
 <!-- Cyberpunk GIF -->
 <p align="center">
-    <img src="https://global.aorus.com/upload/Downloads/F_20200529141470eYSnGK.GIF" alt="Cyberpunk Cityscape" width="800"/>
+    <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/cyberpunk.gif" alt="Cyberpunk Cityscape" width="800"/>
 </p>
 
 <!-- Profile Views -->
