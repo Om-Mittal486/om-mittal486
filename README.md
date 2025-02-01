@@ -65,10 +65,10 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-mittal486&show_icons=true&locale=en&layout=compact" alt="GitHub Languages" />
 </p>
 
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-mittal486&" alt="GitHub Streak" />
 </p>
