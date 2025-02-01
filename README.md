@@ -3,7 +3,7 @@
 
 <!-- Cyberpunk GIF -->
 <p align="center">
-    <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/cyberpunk.gif" alt="Cyberpunk Cityscape" width="800"/>
+    <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/cyberpunk.gif" alt="Cyberpunk Cityscape" width="300"/>
 </p>
 
 <!-- Profile Views -->
