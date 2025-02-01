@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Mittal</h1>
 <h3 align="center">I am currently learning about Game development.</h3>
-
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.pinterest.com%2Fpin%2F10-pixel-3-original-wallpaper-good-2k-photos-go-wallpapers--28921622598512942%2F&psig=AOvVaw3_blymkk--fj2ELS1bCbaQ&ust=1738517143748000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC-yZf_oosDFQAAAAAdAAAAABAJ)" alt="om-mittal-ab0974324" height="30" width="40" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-mittal486&label=Profile%20views&color=0e75b6&style=flat" alt="om-mittal486" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-mittal486" alt="om-mittal486" /></a> </p>
