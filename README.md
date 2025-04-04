@@ -7,7 +7,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Mastering+Unity+and+C%23;Building+Immersive+Gaming+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Learning+Unity+and+C%23;Building+Immersive+Gaming+Experiences" />
 </p>
 
 
