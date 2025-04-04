@@ -17,11 +17,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Mastering+Unity+and+C%23;Building+Immersive+Gaming+Experiences" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Om-Mittal486/Om-Mittal486/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ---
 
 ### **CONNECT WITH ME**
