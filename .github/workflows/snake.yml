@@ -35,6 +35,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
+      - name: Configure Git User
+        run: |
+            git config --global user.email "om040806mittal@gmail.com"
+            git config --global user.name "Om Mittal"
+
+
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
