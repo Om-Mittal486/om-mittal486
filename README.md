@@ -13,9 +13,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/main/Assets/Gif.gif" 
-       alt="Lava Cave GIF" 
-       width="100%" 
-       style="max-width: 800px; border-radius: 10px;"/>
+     alt="Lava Cave GIF" 
+     width="100%" 
+     style="max-width: 800px; border-radius: 20px; overflow: hidden;"/>
 </p>
 
 ---
