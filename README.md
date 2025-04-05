@@ -44,13 +44,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Om-Mittal486&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="48%">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Mittal486&theme=tokyonight&hide_border=false" width="48%">
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Mittal486&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake.svg?v=2" />
+  </picture>
+</div>
 
 ---
 
@@ -86,6 +93,15 @@
 
 ---
 
+### **TROPHIES**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=om-mittal486&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### **PROFILE VIEWERS**
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Om-Mittal486&label=VISITORS&color=007ACC&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBkPSJNMTYgMjguNWM3LjAyIDAgMTIuNS01LjQ4IDEyLjUtMTIuNVMyMy4wMiA0LjUgMTYgNC41IDMuNSA5Ljk4IDMuNSAxNiAxMC45OCAyOC41IDE2IDI4LjV6bTAtM2MtNC4xNiAwLTcuNSA0LjMzLTcuNSAxLjUgMC0yLjUgMi44NC0zLjUgNy41LTMuNSAxLjk2IDAgNy41LS4wOSA3LjUgMy41IDAgMi44NC0zLjM0LTEuNS03LjUtMS41em0wLTFjMy42IDAgNS41LTAuNTIgNS41LTMgMC0yLjUtMy0zLTUuNS0zcy01LjUgMC41Mi01LjUgMyAwIDIuNSA1LjUgMyA1LjV6IiBmaWxsPSIjMDA3QUNDIi8+PC9zdmc+" />
+  <img src="https://profile-counter.glitch.me/om-mittal486/count.svg?" alt="Visitor Count" />
 </p>
