@@ -46,10 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=om-mittal486&theme=tokyonight&show_icons=true" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-mittal486&theme=tokyonight" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=om-mittal486&theme=tokyonight" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Mittal486&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Mittal486&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 <div align="center">
   <picture>
