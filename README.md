@@ -74,6 +74,11 @@
       <br/>
       <span>Supernatural Mystery Adventure</span>
     </td>
+    <td align="center">
+      <b>Project L</b>
+      <br/>
+      <span>Psycological Horror Looping Game</span>
+    </td>
   </tr>
 </table>
 
