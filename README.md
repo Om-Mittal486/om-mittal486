@@ -36,9 +36,6 @@
 ---
 
 ### **TECH STACK**
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </a>
