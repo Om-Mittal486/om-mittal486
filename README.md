@@ -86,9 +86,9 @@
 <table>
   <tr>
     <td align="center">
-      <b>Drucination</b>
+      <b>PatchHeim</b>
       <br/>
-      <span>A Reality-Bending 2D RPG</span>
+      <span>A Top-Down 2D Game</span>
     </td>
     <td align="center">
       <b>Project H</b>
