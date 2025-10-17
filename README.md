@@ -125,9 +125,3 @@
 </div>
 
 ---
-
-### **PROFILE VIEWS**
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/om-mittal486/count.svg?" alt="Visitor Count" />
-</p>
