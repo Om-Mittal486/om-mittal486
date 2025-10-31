@@ -82,29 +82,6 @@
 
 ---
 
-### **CURRENT PROJECTS**
-<table>
-  <tr>
-    <td align="center">
-      <b>PatchHeim</b>
-      <br/>
-      <span>A Top-Down 2D Game</span>
-    </td>
-    <td align="center">
-      <b>Project H</b>
-      <br/>
-      <span>Supernatural Mystery Adventure</span>
-    </td>
-    <td align="center">
-      <b>Project L</b>
-      <br/>
-      <span>Psycological Horror Looping Game</span>
-    </td>
-  </tr>
-</table>
-
----
-
 ### **TOP CONTRIBUTIONS**
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Om-Mittal486&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
