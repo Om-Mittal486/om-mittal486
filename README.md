@@ -9,54 +9,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Learning+Unity+and+C%23;Building+Immersive+Gaming+Experiences" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/main/Assets/Gif.gif" 
-     alt="Lava Cave GIF" 
-     width="100%" 
-     style="max-width: 800px; border-radius: 20px; overflow: hidden;"/>
-</p>
-
----
-
-### **CONNECT WITH ME**
-<p>
-  <a href="https://instagram.com/om_mittal17">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/om-mittal486">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:om040806mittal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
 ---
 
 ### **TECH STACK**
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-<a href="https://unity.com/" target="_blank">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-</a>
-<a href="https://lucifer-playz.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" />
-</a>
-<a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</a>
+<div>
+  <img src="https://skillicons.dev/icons?i=cs,unity,cpp,c,python,mysql,html,css,git&theme=dark" alt="Skills">
+</div>
 
 
 ---
