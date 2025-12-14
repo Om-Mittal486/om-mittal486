@@ -23,13 +23,9 @@
 
 ### **GITHUB STATS**
 ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/om-mittal486/om-mittal486/output/github-snake-dark.svg" />
+</p>
 
 ---
 
