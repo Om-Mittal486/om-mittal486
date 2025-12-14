@@ -1,4 +1,4 @@
-name: Waka Readme (Red Theme)
+name: Waka Readme
 
 on:
   schedule:
@@ -21,11 +21,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # 🔴 RED / DARK STYLE
-          THEME: "github_dark"
-          CUSTOM_TITLE: "🔥 Coding Activity (Red Zone)"
-
-          # Stats visibility
           SHOW_OS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
