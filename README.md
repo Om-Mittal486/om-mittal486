@@ -21,7 +21,7 @@
 
 ---
 
-### **GITHUB STATS**
+### **GITHUB STATISTICS**
 ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/om-mittal486/om-mittal486/output/github-snake-dark.svg" />
@@ -29,7 +29,11 @@
 
 ---
 
-### **TOP CONTRIBUTIONS**
+### **TECHNICAL STATISTICS**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Om-Mittal486&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
