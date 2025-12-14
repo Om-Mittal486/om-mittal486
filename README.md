@@ -22,16 +22,7 @@
 ---
 
 ### **GITHUB STATS**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-mittal486&theme=tokyonight&show_icons=true" width="45%" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=om-mittal486&theme=tokyonight" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-mittal486&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/output/github-snake-dark.svg" />
