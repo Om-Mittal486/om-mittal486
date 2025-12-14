@@ -29,21 +29,12 @@
 
 ---
 
-### **TECHNICAL STATISTICS**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Om-Mittal486&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ### **ACTIVITY GRAPH**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Mittal486&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-mittal486&bg_color=0d1117&color=ff0000&line=ff0000&point=ff4d4d&area=true&area_color=ff0000" />
 </p>
+
+
 
 ---
 
