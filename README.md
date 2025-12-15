@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Learning+Unity+and+C%23;Building+Immersive+Gaming+Experiences" />
 </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/main/Assets/Gif.gif" alt="Lava Cave GIF" width="100%" style="max-width: 800px; border-radius: 20px; overflow: hidden;"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Om-Mittal486/om-mittal486/main/Assets/Train.gif" alt="Mystery Man GIF" width="100%" style="max-width: 800px; border-radius: 20px; overflow: hidden;"/> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
