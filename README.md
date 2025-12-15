@@ -88,7 +88,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Om-Mittal486&label=Profile%200views&color=770677&style=for-the-badge&logo=star" alt="Om-Mittal486" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Om-Mittal486&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Om-Mittal486" style="padding-right:20px;" />
 </p>
 
 <p align="center">
