@@ -21,58 +21,59 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### **GITHUB STATISTICS**
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Mittal486">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Mittal486&theme=tokyonight"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=Om-Mittal486">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Mittal486&theme=react">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Mittal486">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Mittal486&theme=tokyonight"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Mittal486&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Mittal486&theme=tokyonight"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Mittal486">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Mittal486&theme=tokyonight"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Mittal486">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Mittal486&theme=tokyonight"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Mittal486">
+            <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Mittal486&theme=tokyonight"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-readme-activity-graph.vercel.app/graph?username=Om-Mittal486">
+            <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Mittal486&theme=react">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Mittal486">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Mittal486&theme=tokyonight"/>
+          </a>
+        </th>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Mittal486&">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Mittal486&theme=tokyonight"/>
+          </a>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Mittal486">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Mittal486&theme=tokyonight"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Mittal486">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Mittal486&theme=tokyonight"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/om-mittal486/om-mittal486/output/github-snake-dark.svg" />
 </p>
