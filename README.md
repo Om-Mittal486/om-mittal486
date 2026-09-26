@@ -13,13 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### **TECH STACK**
-<div>
-  <img src="https://skillicons.dev/icons?i=cs,unity,cpp,c,python,mysql,html,css,git&theme=dark" alt="Skills">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### **GITHUB STATISTICS**
 <div align="center">
   <table>
